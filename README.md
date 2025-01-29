@@ -12,3 +12,23 @@ I have excellent analytical skills and attention to detail and I am great at wor
    
   </p>
  </details>
+
+ ## ⚒️ Skills
+- **Programming Technologies:** SQL(PostgreSQL), Python(Pandas, Numpy, Matplotlib, Scipy)
+ 
+- **Business Intelligence Tools:** MS Excel, Tableau, MS PowerBI
+
+   ## 📚Projects
+
+### Forage Job Simulations 
+ <details>
+   <summary> Click to view
+   </summary>
+  <ul>
+    <li><a href =""> Accenture - North America, Virtual Job Simulation
+    </a>  
+    </li>
+  </ul>
+  </details>
+
+
