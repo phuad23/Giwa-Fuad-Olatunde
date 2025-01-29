@@ -36,7 +36,7 @@ I have excellent analytical skills and attention to detail and I am great at wor
   <summary> Click to view
    </summary>
   <ul>
-   <li><a href= "https://github.com/JachimmaChristian/Hotel-Operations-SQL-/blob/main/README.md"> Hotel Operations - PostgreSQL
+   <li><a href= "https://github.com/phuad23/Grocery-Store-Sales"> Grocery Store Sales - PostgreSQL
    </a></li>
    <li><a href= "https://github.com/JachimmaChristian/Analyzing-Students-Mental-Health-Data-SQL/blob/main/README.md"> Analyzing Student's Mental Health Data - SQL
    </a></li>
