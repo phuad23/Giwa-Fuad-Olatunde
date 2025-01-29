@@ -42,7 +42,7 @@ I have excellent analytical skills and attention to detail and I am great at wor
    </a></li>
   <li><a href= "https://github.com/JachimmaChristian/Video-Game-Analysis-using-Postgresql/blob/main/README.md"> When Was the Golden Era of Video Games? - PostgreSQL
    </a></li>
-    <li><a href= "https://www.datacamp.com/datalab/w/b15aa8bc-7886-4514-8812-b8e848ba3778/edit"> Analyzing Motorcycle Part Sales
+    <li><a href= "https://github.com/phuad23/Analysis-of-Motorcycle-Part-Sales"> Analyzing Motorcycle Part Sales
    </a></li>
   </ul>
  </details>
