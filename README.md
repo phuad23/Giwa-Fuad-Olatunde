@@ -54,7 +54,7 @@ I have excellent analytical skills and attention to detail and I am great at wor
    </a></li>
     <li><a href= "https://github.com/phuad23/Exploring-NYC-Public-School-Test-Result-Scores/tree/main"> Exploring NYC Public School Test Results Scores
    </a></li>
-      <li><a href= ""> Visualizing the History of Nobel Prize Winners
+      <li><a href= "https://github.com/phuad23/Visualizing-the-History-of-Nobel-Prize-Winners"> Visualizing the History of Nobel Prize Winners
    </a></li>
     </ul>
  </details>
