@@ -52,7 +52,7 @@ I have excellent analytical skills and attention to detail and I am great at wor
     <ul>
     <li><a href= "https://github.com/phuad23/Product-Sales-Analysis"> Product Sales Analysis
    </a></li>
-    <li><a href= "https://github.com/JachimmaChristian/Exploring-NYC-Public-School-Test-Results-Scores-Python/blob/main/notebook.ipynb"> Exploring NYC Public School Test Results Scores
+    <li><a href= "https://github.com/phuad23/Exploring-NYC-Public-School-Test-Result-Scores/tree/main"> Exploring NYC Public School Test Results Scores
    </a></li>
     </ul>
  </details>
