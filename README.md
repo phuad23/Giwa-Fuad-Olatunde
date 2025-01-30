@@ -42,6 +42,8 @@ I have excellent analytical skills and attention to detail and I am great at wor
    </a></li>
     <li><a href= "https://github.com/phuad23/Analysis-of-Motorcycle-Part-Sales"> Analyzing Motorcycle Part Sales
    </a></li>
+    <li><a href="https://github.com/phuad23/Analyzing-of-Hotel-Operations-using-SQL/tree/main"> Hotel Operation Analysis
+    </a></li>
   </ul>
  </details>
 
