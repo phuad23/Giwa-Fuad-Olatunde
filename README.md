@@ -56,6 +56,8 @@ I have excellent analytical skills and attention to detail and I am great at wor
    </a></li>
       <li><a href= "https://github.com/phuad23/Visualizing-the-History-of-Nobel-Prize-Winners"> Visualizing the History of Nobel Prize Winners
    </a></li>
+      <li><a href="https://github.com/phuad23/Investigating-Netflix-Movies"> Investigating Netflix Movies
+      </a></li>
     </ul>
  </details>
 
