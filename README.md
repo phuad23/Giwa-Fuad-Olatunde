@@ -64,3 +64,9 @@ I have excellent analytical skills and attention to detail and I am great at wor
  </details>
 
 
+
+## 📬Connect with Me Here
+
+- [LinkedIn](https://www.linkedin.com/in/fuad-giwa-cln-mit-2a002482/)
+- [Email](giwa.phuad@yahoo.com)
+- [Twitter](https://x.com/Phuad23)
